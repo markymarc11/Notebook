@@ -51,3 +51,18 @@ we realized at this point that it was not showing us an image that we wanted, we
 -shit takes too long....
 -may need to edit pictures
 -ended up having to leave because it was taking too long, was at 30 minutes and looked like only 50% loaded
+
+Jan 22
+-Users/marcbitar/Documents/Terry/Terry.r3d
+going through the command terminal
+  -ls for list
+  -cd for change directory
+  make: new
+  Camera model: XT1650
+  Focal l;ength 3.7 mm
+sensors 5.8 mm
+had to change the settings, the commands used are on shawns website 
+https://electricarchaeology.ca/2018/01/20/3d-models-from-archival-film-video-footage/ step 2
+Compute matches
+  -ultra settings for all
+ 
