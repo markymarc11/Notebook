@@ -65,4 +65,11 @@ had to change the settings, the commands used are on shawns website
 https://electricarchaeology.ca/2018/01/20/3d-models-from-archival-film-video-footage/ step 2
 Compute matches
   -ultra settings for all
- 
+ Triangulate
+  - used incremental structure from Motion
+  Densification
+  -Used CMVS/PMVS and preset settings, then tried chagning settings level 0 Cells size 1 Threshold 0.79 wsize 8 min num image 3
+  Create Surface
+  Tried one with texture and one with colour (thing) the one with colour seemed to look better
+  exported it
+  then went back to try and play with some of the pictures
