@@ -73,3 +73,10 @@ Compute matches
   Tried one with texture and one with colour (thing) the one with colour seemed to look better
   exported it
   then went back to try and play with some of the pictures
+-took too long, so had to stop and export the primary image
+Opened up Meshlab
+-Opened up the new 3D rendering that had been produced
+-getting rid of the extra bits around the image
+--Used the select vertexes tool, dragged around what i didn;t want
+--then used the tool "delete the current set of selected vertices" button
+--repeated until i got rid of everything i didnt want
