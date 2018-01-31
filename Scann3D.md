@@ -80,3 +80,13 @@ Opened up Meshlab
 --Used the select vertexes tool, dragged around what i didn;t want
 --then used the tool "delete the current set of selected vertices" button
 --repeated until i got rid of everything i didnt want
+-with the new image that was produced the file was saved as a .ply file
+-tried uploading to sketchfab
+-file uploaded but there were parts of the image that were missing
+-not sure eactly what occured
+-tried using the file in a different format and exported as an .obj file
+-same problem occured
+--i hate sketchfab currently
+-tried again and the file now has a colourful background
+-where did the colour come from
+-still hate sketchfab
