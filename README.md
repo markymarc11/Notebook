@@ -2,7 +2,7 @@
 
  Google discussion
  HIST3812
-January 10th 2018
+# January 10th 2018
 “If we stop interpreting, if we stop rehearsing, if we stop reproducing, the very existence of the original is at stake. It might stop having abundant copies and slowly disappear.” 
 - what about those people who cannot visit Paris every day to visit the Louvre?
 - what about authenticity? Who is looking for authenticity?
@@ -28,10 +28,10 @@ Censorship in restoring original paintings.
 Programming is Forgetting: 
 http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/
 
-Jan 15
-#Fun times if you're 3D
+# Jan 15
+# Fun times if you're 3D
 time for the class: talking about making the world 3D
-#Find time to read all the articles for the beginning of the learnings
+# Find time to read all the articles for the beginning of the learnings
 - https://shawngraham.github.io/presentations/3812-jan15.html#/
 - lecture notes for this week
 - http://jonudell.net/h/facet.html
@@ -39,7 +39,7 @@ time for the class: talking about making the world 3D
 - to get annotations from a group, click api token, then go through group, and put group indentification
 - its the 8 numberish in the url on the group page
 - download to .csv if you want on excel
-#intro to photogrammatery
+# intro to photogrammatery
 - photogrammetry, its like a little look into all the cool things which we can do = computer vision
 - many different ways to get it done currently, for conusmer grade apps and phones
 - structure from motion, requites you to move around the object, instead of having the object move
@@ -64,14 +64,14 @@ To make it all work, use meshlab, puts everything together
 - if the app isnt working, we just need to take the pictures, and we can use the comps in the history computer lab and use photoscan
 -- quality stuff
 
-JAn 24
+# JAn 24
 Accord Project    group discussion page bit.ly/3812-collab-notes
  - how much is the object dependant on knowing what went into it
  - is the process more important than the product
     
   hOw does seeing a 3D model change how we see something. is it the same as if we were there in person
   
-Jan 29
+# Jan 29
 
 Computational creatvitiy in history https://shawngraham.github.io/presentations/3812-jan29#/2
 neuro networks
