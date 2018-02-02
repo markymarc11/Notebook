@@ -40,32 +40,32 @@ time for the class: talking about making the world 3D
 ##intro to photogrammatery
 - photogrammetry, its like a little look into all the cool things which we can do = computer vision
 - many different ways to get it done currently, for conusmer grade apps and phones
---structure from motion, requites you to move around the object, instead of having the object move
---you can get stills from a movie if someone did a full video of something
--on the high end scale they use lazers!!!! better for getting the smallest little details, and can be very complex
--with all the fancy things, all you really need is a camera that takes a decent picture
+- structure from motion, requites you to move around the object, instead of having the object move
+- you can get stills from a movie if someone did a full video of something
+- on the high end scale they use lazers!!!! better for getting the smallest little details, and can be very complex
+- with all the fancy things, all you really need is a camera that takes a decent picture
 - problems with digital history, shit dissappears a lot #blametheman
---therefore it is important to think of sustainability of stuff
--unity game engine, free for personal use
+- therefore it is important to think of sustainability of stuff
+- unity game engine, free for personal use
 English heritage puts out a bunch of nuts and bolts type things
--basic idea of what you need for a print
---clean, clear type photographs from a variety of depth
---image matching, takes images and matches up the places of overlap, creating cloud of likely connnections
---once you figure it all out you can take this object and ad all the coolness to it, using it for different things
--when making pictures, try to take a decent amount of pictures, for a 360, do about 30-40 pictures
--how it works
---computer finds tie points
---lots of metadata is embeded in the data
---such as the size of teh image plate
---if you know all the info, the computer can figuer out where you where when taking the photograph
+- basic idea of what you need for a print
+-- clean, clear type photographs from a variety of depth
+-- image matching, takes images and matches up the places of overlap, creating cloud of likely connnections
+-- once you figure it all out you can take this object and ad all the coolness to it, using it for different things
+- when making pictures, try to take a decent amount of pictures, for a 360, do about 30-40 pictures
+- how it works
+-- computer finds tie points
+-- lots of metadata is embeded in the data
+-- such as the size of teh image plate
+-- if you know all the info, the computer can figuer out where you where when taking the photograph
 To make it all work, use meshlab, puts everything together
--if the app isnt working, we just need to take the pictures, and we can use the comps in the history computer lab and use photoscan
---quality stuff
+- if the app isnt working, we just need to take the pictures, and we can use the comps in the history computer lab and use photoscan
+-- quality stuff
 
 JAn 24
 Accord Project    group discussion page bit.ly/3812-collab-notes
-  - how much is the object dependant on knowing what went into it
-    - is the process more important than the product
+ - how much is the object dependant on knowing what went into it
+ - is the process more important than the product
     
   hOw does seeing a 3D model change how we see something. is it the same as if we were there in person
   
@@ -73,18 +73,18 @@ Jan 29
 
 Computational creatvitiy in history https://shawngraham.github.io/presentations/3812-jan29#/2
 neuro networks
--scary stuff
--there are ways to map all the different ways in which we see something
--we see that depending on how you use certain tools can show you new views into history
--everything we do on the internet is tracked
--computer
---the transformation of one type of information into another
--when excavating, we can find an absense of something
--when making copies of something over and over again you lose a part of it each time
--archaeological record is shaped by force of persistency and permeability
--grids focus on the qualities of an object and define the assembly/dissassembly of objects
--to figure out how to understand an object, it is very compicated in the sense that there are so many variables contained in figuring out the quality of an object
--Hows everything have to do with computational creativity then?
--
+- scary stuff
+- there are ways to map all the different ways in which we see something
+- we see that depending on how you use certain tools can show you new views into history
+- everything we do on the internet is tracked
+- computer
+-- the transformation of one type of information into another
+- when excavating, we can find an absense of something
+- when making copies of something over and over again you lose a part of it each time
+- archaeological record is shaped by force of persistency and permeability
+- grids focus on the qualities of an object and define the assembly/dissassembly of objects
+- to figure out how to understand an object, it is very compicated in the sense that there are so many variables contained in figuring out the quality of an object
+- Hows everything have to do with computational creativity then?
+
 
   
