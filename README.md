@@ -88,5 +88,30 @@ neuro networks
 - to figure out how to understand an object, it is very compicated in the sense that there are so many variables contained in figuring out the quality of an object
 - Hows everything have to do with computational creativity then?
 
+# History as a Remix
+
+- we have the first object that we made, now what can we do with it to change it, how can we re-organize the information differently
+
+February 5
+
+- what is created also reflects on the creator
+- Brian Foo, doing cool ways of representing data, REMIX
+- not all remixes are equally valid
+- odonnel university of lethbridge, unessay
+- Deformance and interpretation
+   Deformance always come back to the original
+   why not look at the broken and twisted parts of it all - this deformation, it is not an end, but a means to an end
+- remixing doesnt have to be that weird, just a way for you to see things for the first time
+Sonification
+- adding Sound to our model, or making the model into Sound
+slides have a bunch of different things that can be done with the models
+- meshing models together
+-creative common licence is best 
+
+ideas for the reading
+- authoruity
+- aura
+- who is the author
+
 
   
