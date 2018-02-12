@@ -113,5 +113,37 @@ ideas for the reading
 - aura
 - who is the author
 
+Feb 12
 
-  
+- going forward with notes, keep a good idea of the lectures and discussions so that you can try to relate more to paradata
+- important to have a good understanding of whats going on, and even writing down when you don't understand
+
+-remixing
+- mesh mixer
+- reduce triangle or decimate the mesh
+- makes model easier to work with and easier to mesh
+
+lecture
+- https://shawngraham.github.io/presentations/3812-feb12.html#/1
+- idea of making casts of all the older pieces of art and architecture
+- using the casts to show people what is and isnt good art
+- the art was a sense of nationalism
+- casts are not always enough though
+- casts were helpful because they could be transported for a lot of people to see
+- academic areas could have a good library of casts so you would still be able to study the casts even if you were unable to see the original
+- Fascism museum from Mussolini
+- shows only replicas, but gives the story that there are only ale to give casts because everythign was stolen from them, and that they will get it back
+- museums and casts went from democratizing to being somethign thought of as not highly interesting for people
+- casts fall out of fashion
+- but then a realization that the casts were the only records left of the objects, because the originals were falling apart or gone
+- there is a lot of questions surrounding whether we should be able to copy or scan most things in museums
+
+the misuse of this data
+- reputation management and mismanagement
+- with all the digital stuff there is so much that can be done to change it for good or bad
+- good article in the slides about the infrastrucure that needs to be set up to deal with all this stuff
+
+William Carter
+- what if we were to embed all the original info into the sculptures singular points 
+- you would then still be able to see all the information from the original even if it was changed
+- the idea that each of your cells contains all of your dna, so should each vertice hold that information in a 3D image
