@@ -147,3 +147,12 @@ William Carter
 - what if we were to embed all the original info into the sculptures singular points 
 - you would then still be able to see all the information from the original even if it was changed
 - the idea that each of your cells contains all of your dna, so should each vertice hold that information in a 3D image
+
+
+http://voyant-tools.org/?corpus=e9385c086a52ed7c004d2ab51d1255f5 
+
+taking all the info is the data
+organizing it in a way is metadata
+describing how you did it is paradata
+
+databasic.io 
