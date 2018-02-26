@@ -182,4 +182,15 @@ Simulation
 - interpretation that give way to further historical searching
 procedural literacy, procedural Rhetorics
 - a text adventure can be better than a visual adventure because people aren't trying to think of whats wrong with the image, you get to make the image yourself
-- 
+Video Game
+- ludology: study of games
+- ludas: ru;e based
+- pagea: free flowing
+Alternate reality games
+- games that take place in real space
+- built around a series of different trends, idea that choices have change in the real world
+- the idea of finding physical artifacts that move everything forwards
+ARG's
+- you have to think like a historian when doing it
+- there can also be dangers for what happens
+- fielddaylab.org/make/aris/ probably better for module 4 though
