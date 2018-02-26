@@ -156,3 +156,30 @@ organizing it in a way is metadata
 describing how you did it is paradata
 
 databasic.io 
+
+# Feb 26 module 3 Digital thing to digital world
+
+- dhcu.ca/prairie-package-test/ 
+- carleton university in minnesote has a tutorial on twine
+ Virtual worlds of the past; an intro to games/history
+- humans tell storys and they weave those stories into the landscape
+- ARG alternate reality game
+Chris crawford
+- big video game designer
+- left video games because of all the consumerism behind them
+- game playing is a type of learning function
+-  80's video games are good for learning in literature
+- 90's  still decent
+- after columbine, that all changed, they blamed video games for shootings
+- the interaction in game has to be meaningful
+- game spaces are safe,in the way that you can't actually get killed
+- "video games can be ethical games if the choices you make have real consequences"
+- MDA method, in the slide it is better explained
+- we play games to know what happens next
+-  historians like to know why things happened, and what could happen next
+Simulation
+- simulations are not oracle, they're interpretations
+- interpretation that give way to further historical searching
+procedural literacy, procedural Rhetorics
+- a text adventure can be better than a visual adventure because people aren't trying to think of whats wrong with the image, you get to make the image yourself
+- 
