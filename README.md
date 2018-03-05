@@ -194,3 +194,23 @@ ARG's
 - you have to think like a historian when doing it
 - there can also be dangers for what happens
 - fielddaylab.org/make/aris/ probably better for module 4 though
+
+# march 5 Authenticity and the "Historical" Video Game
+
+- Bohemia 15th century
+- super interesting time, a bunch of stuff was happening
+- talkinga bout a video game, which is supposed to be historically accurate
+- retelling history is hard, because you have to say what is important or not and such
+- Kingdom Come, video game
+- supposed to be super historically accurate
+- it can be looked at a case study to see how certain things are represented and not others (P.O.C. and women )
+- the game represents certain values in a current contet (czech political views)
+- you can find a lot out when you look at who in the game is considered to be important and how they are portrayed
+- these same questions can be asked of museums as well
+- games are a sequence of intereactions, some are important to the player, and others important to the game
+-  graphics dont matter
+- the only way we know the past is through vision
+- if we are just worrying about graphics, we dont look at the full picture
+- terra copplestone, was game developer, now in archaeology, for her graphics game be important for emotional effect
+- key ponint, how representations are used or not used
+
