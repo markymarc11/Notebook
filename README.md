@@ -214,3 +214,11 @@ ARG's
 - terra copplestone, was game developer, now in archaeology, for her graphics game be important for emotional effect
 - key ponint, how representations are used or not used
 
+# March 12 ArcheoGaming
+
+- Video games eamples of built heritage
+- the way that you look at games is the same that you would like at an  archaeological site
+- a lot of people tend to just focus on the digital aspect of games, but there is also the audio which tends to take a back seat
+- even when looking at "historical' games we can use them as learning tools, to help educate and learn
+- 
+
