@@ -222,3 +222,10 @@ ARG's
 - even when looking at "historical' games we can use them as learning tools, to help educate and learn
 - 
 
+# March 14
+- Aurasma - hp reveal
+- -lets you overlay stuff, photo recognizes trigger image and shows stuff
+- Aris games, IOS only, looks at your location and tells you there is an experience there
+- a playful intersection of digital space into the digital world
+
+- bit.ly/2tJqYEo
