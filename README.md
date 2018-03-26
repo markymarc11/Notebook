@@ -202,6 +202,7 @@ ARG's
 - talkinga bout a video game, which is supposed to be historically accurate
 - retelling history is hard, because you have to say what is important or not and such
 - Kingdom Come, video game
+
 - supposed to be super historically accurate
 - it can be looked at a case study to see how certain things are represented and not others (P.O.C. and women )
 - the game represents certain values in a current contet (czech political views)
@@ -229,3 +230,19 @@ ARG's
 - a playful intersection of digital space into the digital world
 
 - bit.ly/2tJqYEo
+
+# Module 4
+
+# March 26
+- Politics of (un)critical making
+- Large amounts of technology come from military, HUD and such come into virtual reality and such
+- augmented reality, just taking things into the regular environment
+- breaks in reality are why problems with Virtual Reality arise (the breaks in presence)
+- you don't really know what you can get with the augmented reality. so many possibilities.
+- large parts of augmented reality missing, you usually only get the visual, and not things like audio or haptic feedback are given
+- smell is a powerful cognitive trigger
+- what can you do to bring out certain emotions and feelings by people
+- where things are displayed has as much to say about what is being displayed
+- Many software development kits are becoming bought up by big companies and then made obselete, giving them a form of monopoly on it
+- making certain things less accessible because the big guys (Google and Apple) just wanna make taht paper
+- even in academia, it is hard to make things happen because you have to reason for doingthings, and cannot just do them. 
