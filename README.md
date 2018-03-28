@@ -246,3 +246,16 @@ ARG's
 - Many software development kits are becoming bought up by big companies and then made obselete, giving them a form of monopoly on it
 - making certain things less accessible because the big guys (Google and Apple) just wanna make taht paper
 - even in academia, it is hard to make things happen because you have to reason for doingthings, and cannot just do them. 
+
+# March 28
+
+- looking at what the representations can show
+- do they represent something that is good or bad
+- does it change the meaning of the original object
+- does it negatively change, the view on the object
+- terry statue, when he is a centaur, he is just a man, because you only have the upper half, losing his leg in that sense
+- if you copy something too much, what does it change
+- a lot of the times we do things without thinking whether we should do it, or if it will hurt anyone
+- imaginarysoundscape2.qosmo.jp  turning picture to sound
+
+
