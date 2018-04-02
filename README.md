@@ -258,4 +258,22 @@ ARG's
 - a lot of the times we do things without thinking whether we should do it, or if it will hurt anyone
 - imaginarysoundscape2.qosmo.jp  turning picture to sound
 
+# April 2
+
+- most digital things do not want you to play with and break things
+- Module 4 can have a rubric made by yourself
+- porrtfolio
+- - github page, word press, cuportfolio
+- important part is to show the evidence, the critical reflection linking everything
+- look at the key questions 
+- invisible labour
+- procedural failure
+- creativity in history has value
+- collaboration within the class, is a new way at looking at the things
+- accesibility implications 
+- - the priviledge involved in dig history
+- pushing you beyond your own limits, doing things you wouldn't regularly use
+- 
+- What happens to history as digital?
+- What does dig history really mean?
 
